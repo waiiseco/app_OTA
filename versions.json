@@ -1,7 +1,8 @@
 {
-  "public": {
-    "version": "1.2.3",
-    "ivSessionKey:": "poW8Qa5FRU1j9je59xcm0w==:nkvoOrg91ysZC24T+nVJUZHPkmQROoQr7++3lUhEbvJNUwhi2AsLecQYOirOCbdyozxH6wTF+Thb+io4xw7me79e2j3G54i6nKFe3L0QVmhZvULVtQaK08D7algYoj5XQZ2bmCMo+eBVaByBy3lP04QjFK0Fh5BUcQJTsrDFo31/4mOJ1kvaMxXmyOB6AAMcy/Ff3YKd2IqL6NiFqe3u2TPP8p4DSlb2VCDnTrCJf3ttlSbM1OviHSHsJcSDsbpObqNdDd2Ea9/nMGsRvrJ3gosOj8oCdLAsOEYNEwsGxrHxe2afvjkeUrKKM2pJT8nIsn7bpAxIwM2JMZNG8szmSQ=="
+  "app_Versions": {
+    "1.1.3": "1.2.3"
   },
-  "beta": "1.2.5"
+  "session_keys": {
+    "1.2.3": "poW8Qa5FRU1j9je59xcm0w==:nkvoOrg91ysZC24T+nVJUZHPkmQROoQr7++3lUhEbvJNUwhi2AsLecQYOirOCbdyozxH6wTF+Thb+io4xw7me79e2j3G54i6nKFe3L0QVmhZvULVtQaK08D7algYoj5XQZ2bmCMo+eBVaByBy3lP04QjFK0Fh5BUcQJTsrDFo31/4mOJ1kvaMxXmyOB6AAMcy/Ff3YKd2IqL6NiFqe3u2TPP8p4DSlb2VCDnTrCJf3ttlSbM1OviHSHsJcSDsbpObqNdDd2Ea9/nMGsRvrJ3gosOj8oCdLAsOEYNEwsGxrHxe2afvjkeUrKKM2pJT8nIsn7bpAxIwM2JMZNG8szmSQ=="
+  }
 }
