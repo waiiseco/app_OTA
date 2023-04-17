@@ -1,9 +1,8 @@
 {
   "app_versions": {
-    "1.1.4": "0.0.2"
+    "1.1.4": "0.0.1"
   },
   "session_keys": {
-    "0.0.1": "DHScpRqVDtIHp2kaYP2bAg==:ExxDttdD3cZk8/I84ww74M4h/jz2vydpNV+xRh4TRQxk4t442HI7tzS28QmKzdmltD6vjkzXmpWmQeWAPESAs3j0wQgykxXVWCI41Re4c7ZEdmgipttNmzvGKo98SYz+L5pFR1Ihp5VVCnEwFuKe/sUT9Qxs42CaSl/htjeY/i9JxqFBO/gvyB77zJfOWVU3AcIc5K/loUXd3fNeROj3Bp9updqOQL25QkHbOzuZ4QWGvBaxY9ibqLN5fdfne0OEpE0Z/GDujSd6PezAWgVojlb1juZHL7n/I3YJGdmb34AyBZasjAm1aXcmx3xBelw6HobT4DWphNjjru4Cnjvb6w==",
-    "0.0.2": "MO6m918cm4gB2tafkPbonQ==:tcdj5Sr6h+GGAn4GjA3b4NDxuB+M5Q84mjNb78TINQG4Z7GSEyn5EXWIZrgGpexbp3QtJrReMOZ1ekz0qiLPiI3m22Q9wj0oxbzpgYurngqU3AZwVDtMTyM1p3HtNjmfhLf1i8iKVx44Qyi1u0Qf3ZVjbJwMrAHdBzvGH49lJSjAhbbJgEG9JAs8u+ezmQkZexDXekf6Fvv7jjeO9Yn+XtXdTt2RC/68pzEmX7K64MfQurBYPDy30ZKXHkngESMoZlXGH6qGV9O7RPSuL0+O5xSpo0tCHCnGSGkIM+mmUwe4ErMRm4l4FnVe7KwXX9cZ5tyQcrsKeNaBOhzSia20kw=="
+    "0.0.1": "DHScpRqVDtIHp2kaYP2bAg==:ExxDttdD3cZk8/I84ww74M4h/jz2vydpNV+xRh4TRQxk4t442HI7tzS28QmKzdmltD6vjkzXmpWmQeWAPESAs3j0wQgykxXVWCI41Re4c7ZEdmgipttNmzvGKo98SYz+L5pFR1Ihp5VVCnEwFuKe/sUT9Qxs42CaSl/htjeY/i9JxqFBO/gvyB77zJfOWVU3AcIc5K/loUXd3fNeROj3Bp9updqOQL25QkHbOzuZ4QWGvBaxY9ibqLN5fdfne0OEpE0Z/GDujSd6PezAWgVojlb1juZHL7n/I3YJGdmb34AyBZasjAm1aXcmx3xBelw6HobT4DWphNjjru4Cnjvb6w=="
   }
 }
