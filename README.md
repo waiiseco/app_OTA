@@ -9,12 +9,12 @@ ionic capacitor build ios --prod --no-open
 Then, generate the zip file:
 
 ```jsx
-npx @capgo/cli bundle zip --path www/ --bundle [{ota_version_number}]
+npx @capgo/cli bundle zip --path www/ --bundle [ota_version_number]
 ```
 This will generate a .zip file that we need to encrypt:
 
 ```jsx
-npx @capgo/cli bundle encrypt [{path/to/zip}]
+npx @capgo/cli bundle encrypt [path/to/zip]
 ```
 
 This will generate a file .zip_encrypted.zip and a key.
