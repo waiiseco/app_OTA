@@ -29,7 +29,7 @@ We upload the file to the root of this repository, and will edit the versions.js
 - Add a new entry in the "session_keys" with the format:
 ```
 {
-  "version_number": "key"
+  "ota_version_number": "key"
 }
 ```
 
